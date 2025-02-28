@@ -1,4 +1,4 @@
-Thanks for helping make FPE:RP Repositorysafe for everyone.
+Thanks for helping make FPE:RP Repository safe for everyone.
 
 # Security
 FPE:RP takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as GitHub.
