@@ -1,12 +1,26 @@
-local script = Instance.new('LocalScript', Fps)
 local RunService = game:GetService("RunService")
-RunService.RenderStepped:Connect(function(frame) -- This will fire every time a frame is rendered
-script.Parent.Text = ("FPS: "..math.round(1/frame)) 
-end)
 
+local start = tick()
+local updaterate = 0.5
 
-local script = Instance.new('LocalScript', Ping)
-local RunService = game:GetService("RunService")
-RunService.RenderStepped:Connect(function(ping) 
-script.Parent.Text = ("Ping: " ..game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString(math.round(2/ping))) -- your ping
+local average_amount = 5 --Higher the average, the more accurate the fps will be!
+
+local fps_table = {}
+
+RunService.RenderStepped:Connect(function(frametime)
+	if tick() >= start+((updaterate)/average_amount) then
+		local fps = 1/frametime
+		table.insert(fps_table,fps)
+	end
+	if tick() >= start+updaterate then
+		start = tick()
+		local current = 0
+		local maxn = table.maxn(fps_table)
+		for i=1,maxn do
+			current = current+fps_table[i]
+		end
+		local fps = math.floor(current/maxn)
+		script.Parent.Text = fps
+		fps_table = {}
+	end
 end)
