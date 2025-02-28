@@ -1,1 +1,1 @@
-Please wait
+print("Hello World!")
