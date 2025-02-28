@@ -1,5 +1,5 @@
 
-MIT License
+License
 
 Copyright (c) 2025 UocDev
 
