@@ -2,8 +2,8 @@
 This Official Previews Update Experimental feature, All Update, Changes, Removed well show up in here.
 any Database, script, commit, guidelines you can found in here.
 
-# How to Enable Experimental feature
-Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll down > Click Experimental Setting.
+# How to Enable Experiments features
+Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll down > Click Experiments Setting.
 
 # Rules Cloning or Using
 1 Do not use for dangerous or anything that.
