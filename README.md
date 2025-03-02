@@ -1,5 +1,5 @@
 # FPE.RP.PROJECT
-This Official Previews Update Experimental feature, All Update, Changes, Removed well show up in here.
+This Official Previews Update Experiments feature, all updates, changes, removed will show up in here.
 any Database, script, commit, guidelines you can found in here.
 
 # How to Enable Experiments features
