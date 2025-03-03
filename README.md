@@ -6,7 +6,7 @@ any Database, script, commit, guidelines you can found in here.
 Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll down > Click Experiments Setting.
 
 # Rules Cloning or Using
-1 Do not use for dangerous or anything that.
+1 Do not use for dangerous or something bad.
 
 2 Please added the source code. (e.g Source code from FPE-RP-project (link) Repository)
 
