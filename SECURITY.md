@@ -1,7 +1,7 @@
 Thanks for helping make FPE:RP Repository safe for everyone.
 
 # Security
-FPE:RP takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as GitHub.
+FPE:RP takes the security of our software products and services seriously, including all of the open source code repositories managed through our FPE:RP organizations, such as GitHub.
 
 Even though open source repositories are outside of the scope of our bug bounty program and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation.
 
