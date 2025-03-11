@@ -20,7 +20,7 @@ Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll do
 
 # Support & Help
 If you have too many problems, you can join the Discord server FPE:RP Community & Support for other staff or volunteers can help you!
-https://discord.gg/wQmKyRm5rx
+[discord.gg/fperoleplay](https://discord.gg/wQmKyRm5rx)
 
 
 *dust*
