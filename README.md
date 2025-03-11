@@ -8,7 +8,7 @@ Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll do
 # Rules Cloning or Using
 1 Do not use for dangerous or something bad.
 
-2 Please added the source code. (e.g Source code from FPE.RP.PROJECT (link) Repository)
+2 Please added the source code. (e.g Source code from FPE.RP.PROJECT [(link)](https://github.com/UocDev/FPE.RP.PROJECT) Repository)
 
 3 If you have problems with your repository, please contact me via discord. (owner)
 
