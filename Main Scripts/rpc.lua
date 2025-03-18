@@ -1,14 +1,14 @@
 local presence = {
-    state = "Playing Solo",
-    details = "Competitive",
-    startTimestamp = 1507665886,
-    endTimestamp = 150766588699,  -- Note: This might be an unusually large timestamp value
-    largeImageText = "Numbani",
-    smallImageText = "Rogue - Level 100",
-    partyId = "ae488379-351d-4a4f-ad32-2b9b01c91657",
-    partySize = 1,
-    partyMax = 5,
-    joinSecret = "MTI4NzM0OjFpMmhuZToxMjMxMjM= "
+    state = "YOUR_STATE",
+    details = "YOUR_DETAILS",
+    startTimestamp = YOUR_TIME,
+    endTimestamp = YOUR_TIME,  -- Note: This might be an unusually large timestamp value
+    largeImageText = "YOUR_TEXT",
+    smallImageText = "YOUR_TEXT - YOUR_TEXT",
+    partyId = "YOUR_PARTYID",
+    partySize = SIZE_PARTY,
+    partyMax = MAX_PARTY,
+    joinSecret = "YOUR_TOKEN= "
 }
 
 Roblox.UpdatePresence(presence)
