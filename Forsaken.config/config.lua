@@ -1,1 +1,1 @@
-// Stll WIP
+-- always use config file in every directory
