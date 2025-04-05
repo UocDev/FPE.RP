@@ -20,8 +20,7 @@ Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll do
 Q: All script in directory Forsaken.config is original from game?
 
 A: Yes, maybe. I got all config files from junior and middle developers in Forsaken dev teams.
-
-
+***
 Q: All script free and i can use for my own game?
 
 A: Yup. All people can use this for they own games.
