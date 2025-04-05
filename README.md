@@ -12,12 +12,19 @@ Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll do
 
 3 If you have problems with your repository, please contact me via discord. (owner)
 
-4 You must have experience programing 2 years or 1 years Lua script.
+4 You must have experience programing 1 years Lua script. 
 
-5 You must not under 14.
+5 You must can use English Language.
 
-6 You must can use English Language.
+# FAQ
+Q: All script in directory Forsaken.config is original from game?
 
+A: Yes, maybe. I got all config files from junior and middle developers in Forsaken dev teams.
+
+
+Q: All script free and i can use for my own game?
+
+A: Yup. All people can use this for they own games.
 # Support & Help
 If you have too many problems, you can join the Discord server FPE:RP Community & Support for other staff or volunteers can help you!
 [discord.gg/fperoleplay](https://discord.gg/wQmKyRm5rx)
