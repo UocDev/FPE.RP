@@ -2,10 +2,10 @@
 This Official Previews Update Experiments feature, all updates, changes, removed will show up in here.
 any Database, script, commit, guidelines you can found in here.
 
-# How to Enable Experiments features
+## How to Enable Experiments features
 Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll down > Click Experiments Setting.
 
-# Rules Cloning or Using
+## Rules Cloning or Using
 1 Do not use for dangerous or something bad.
 
 2 Please added the source code. (e.g Source code from FPE.RP.PROJECT [(link)](https://github.com/UocDev/FPE.RP.PROJECT) Repository)
@@ -16,7 +16,7 @@ Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll do
 
 5 You must can use English Language.
 
-# FAQ
+## FAQ
 Q: All script in directory Forsaken.config is original from game?
 
 A: Yes, maybe. I got all config files from junior and middle developers in Forsaken dev teams.
@@ -24,7 +24,7 @@ A: Yes, maybe. I got all config files from junior and middle developers in Forsa
 Q: All script free and i can use for my own game?
 
 A: Yup. All people can use this for they own games.
-# Support & Help
+## Support & Help
 If you have too many problems, you can join the Discord server FPE:RP Community & Support for other staff or volunteers can help you!
 [discord.gg/fperoleplay](https://discord.gg/wQmKyRm5rx)
 
