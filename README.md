@@ -1,5 +1,6 @@
 # FPE.RP.PROJECT
-This Official Previews Update Experiments feature, all updates, changes, removed will show up in here.
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>This Official Previews Update Experiments feature, all updates, changes, removed will show up in here.
 any Database, script, commit, guidelines you can found in here.
 
 ## How to Enable Experiments features
