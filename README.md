@@ -7,16 +7,10 @@ any Database, script, commit, guidelines you can found in here.
 Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll down > Click Experiments Setting.
 
 ## Rules Cloning or Using
-1 Do not use for dangerous or something bad.
-
-2 Please added the source code. (e.g Source code from FPE.RP.PROJECT [(link)](https://github.com/UocDev/FPE.RP.PROJECT) Repository)
-
-3 If you have problems with your repository, please contact me via discord. (owner)
-
-4 You must have experience programing 1 years Lua script. 
-
-5 You must can use English Language.
-
+### 1 Don't use for bad.
+We have reputation and popularity. we not recommend use Repository FPE.RP, if you use for bad and others, we will ban you from all services like Discord server, game, developer community, and others.<br>
+[Read License](https://github.com/UocDev/FPE.RP.PROJECT)
+### 2 
 ## FAQ
 Q: All script in directory Forsaken.config is original from game?
 
