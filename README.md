@@ -10,7 +10,8 @@ Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll do
 ### 1 Don't use for bad.
 We have reputation and popularity. we not recommend use Repository FPE.RP, if you use for bad and others, we will ban you from all services like Discord server, game, developer community, and others.<br>
 [Read License](https://github.com/UocDev/FPE.RP.PROJECT/tree/master?tab=MIT-1-ov-file)
-### 2 
+### 2 Limited API.
+For safety operational APIs, we limit API in public developers community. The behind reason why limit API, we don't have so many APIs for devlord. Operational efficiency and cost maintenance is very high and we just use low budget.
 ## FAQ
 Q: All script in directory Forsaken.config is original from game?
 
