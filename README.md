@@ -16,7 +16,8 @@ For safety operational APIs, we limit API in public developers community. The be
 If you suggest Pull request with AI generator code, your Pull request will closed with reason "Your Pull request has been ban"
 ### 4 Bad words in discussion or/and Pull Requests.
 If they report you bad words, you probably have 2 options, Say "Sorry" or leave from PRs / Contributor.
-### 5
+### 5 Age Requirement
+You must 14 y/o or more, we have dark/down situation when PRs, IR (Issue Requests), and commit changing.
 ## FAQ
 Q: All script in directory Forsaken.config is original from game?
 
