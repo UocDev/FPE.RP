@@ -1,0 +1,7 @@
+pre-commit.fp.rp
+
+post-commit.fp.rp
+
+pre-push.fp.rp
+
+commit-msg.fp.rp
