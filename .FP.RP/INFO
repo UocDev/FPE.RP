@@ -1,0 +1,4 @@
+# .fp.rp/info/exclude
+*.log
+/secret-config.json
+temp/
