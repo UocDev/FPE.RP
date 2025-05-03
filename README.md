@@ -27,7 +27,7 @@ Q: All script free and i can use for my own game?
 
 A: Yup. All people can use this for they own games.
 ## Support & Help
-If you have too many problems, you can join the Discord server FPE:RP Community & Support for other staff or volunteers can help you!
+If you have too many problems, you can join the Discord server FPE:SK Community & Support for other staff or volunteers can help you!
 [discord.gg/fperoleplay](https://discord.gg/wQmKyRm5rx)
 
 
