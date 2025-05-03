@@ -1,4 +1,4 @@
-# FPE.RP.PROJECT
+# FPE.SK.PROJECT
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>This Official Previews Update Experiments feature, all updates, changes, removed will show up in here.
 any Database, script, commit, guidelines you can found in here.
@@ -8,7 +8,7 @@ Go to User Setting > Go to Advanced Setting > Enable Developers Mode > Scroll do
 
 ## Rules Cloning or Using
 ### 1 Don't use for bad.
-We have reputation and popularity. we not recommend use Repository FPE.RP, if you use for bad and others, we will ban you from all services like Discord server, game, developer community, and others.<br>
+We have reputation and popularity. we not recommend use Repository FPE.SK, if you use for bad and others, we will ban you from all services like Discord server, game, developer community, and others.<br>
 [Read License](https://github.com/UocDev/FPE.RP.PROJECT/tree/master?tab=MIT-1-ov-file)
 ### 2 Limited API.
 For safety operational APIs, we limit API in public developers community. The behind reason why limit API, we don't have so many APIs develord. Operational efficiency and cost maintenance is very high and we just use low budget.
@@ -27,7 +27,7 @@ Q: All script free and i can use for my own game?
 
 A: Yup. All people can use this for they own games.
 ## Support & Help
-If you have too many problems, you can join the Discord server FPE:RP Community & Support for other staff or volunteers can help you!
+If you have too many problems, you can join the Discord server FPE:SK Community & Support for other staff or volunteers can help you!
 [discord.gg/fperoleplay](https://discord.gg/wQmKyRm5rx)
 
 
