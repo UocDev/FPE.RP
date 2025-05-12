@@ -1,4 +1,4 @@
-# FPE.SK.PROJECT
+# FPE.RP.PROJECT
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>This Official Previews Update Experiments feature, all updates, changes, removed will show up in here.
 any Database, script, commit, guidelines you can found in here.
@@ -27,7 +27,7 @@ Q: All script free and i can use for my own game?
 
 A: Yup. All people can use this for they own games.
 ## Support & Help
-If you have too many problems, you can join the Discord server FPE:SK Community & Support for other staff or volunteers can help you!
+If you have too many problems, you can join the Discord server FPE:RP Community & Support for other staff or volunteers can help you!
 [discord.gg/fperoleplay](https://discord.gg/wQmKyRm5rx)
 
 
