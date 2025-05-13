@@ -6,9 +6,11 @@ return {
     license = "MIT"
     
     dependencies = {
-        ["API/R3"] = "^2.0-alpha",
-        ["Client/R6"] = "^1.0-alpha",
-        ["UserRPC"] = "^1.0-alpha",
+        ["API/R3"] = "2.0-alpha",
+        ["Client/R6"] = "1.0-alpha",
+        ["UserRPC"] = "1.0-alpha",
+        ["REST API"] = "1.0-alpah",
+        ["ClientAPP"] = "2.0-alpah",
         
     },
     
@@ -16,7 +18,7 @@ return {
         deploy = "RunTests.lua",
         git = "PushCommit.lua",
         run = "RunScript.lua",
-        API status = "CheckAPIStatus.lua
-        API v = "CheckAPIVersion.lua"
-        UPD = "UpdateVersionPackage.lua"
+        API status = "CheckAPIStatus.lua",
+        API v = "CheckAPIVersion.lua",
+        UPD = "UpdateVersionPackage.lua",
     }
