@@ -1,0 +1,28 @@
+name: Deploy to Roblox
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: windows-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Rojo
+      run: |
+        iex (irm 'https://rojo.space/install.ps1')
+        echo "$env:APPDATA\rojo\bin" >> $GITHUB_PATH
+        
+    - name: Set up Roblox CLI
+      run: |
+        Invoke-WebRequest -Uri "https://github.com/Roblox/roblox-cli/releases/latest/download/roblox-cli.zip" -OutFile "roblox-cli.zip"
+        Expand-Archive -Path "roblox-cli.zip" -DestinationPath "$env:APPDATA\roblox-cli"
+        echo "$env:APPDATA\roblox-cli" >> $GITHUB_PATH
+        
+    - name: Deploy
+      run: powershell ./deploy.ps1
+      env:
+        ROBLOX_API_KEY: ${{ secrets.ROBLOX_API_KEY }}
