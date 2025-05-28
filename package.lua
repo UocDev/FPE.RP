@@ -11,6 +11,7 @@ return {
         ["UserRPC"] = "1.0-alpha",
         ["REST API"] = "1.0-alpah",
         ["ClientAPP"] = "2.0-alpah",
+        ["App Metadata"] = "1.0-alpah"
         
     },
     
