@@ -20,6 +20,11 @@ local EGOSkills = {
         Animation = "rbxassetid://2345678901",
         Description = "Inflicts bleeding damage over time"
     },
+    ["Compass"] = {
+        cooldown = 20
+        damage = 25
+        Range = 1
+        Effect = "Poor"
     -- Add more E.G.O weapons here
 }
 
