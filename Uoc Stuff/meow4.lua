@@ -1,0 +1,1 @@
+print('Yamiki@no-nfsw')
