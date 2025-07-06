@@ -5,7 +5,7 @@ process pull requests.
 
 ## Suggesting New Features
 
-If you'd like to propose a new feature, but aren't comfortable with programming in Go, please join the
+If you'd like to propose a new feature, but aren't comfortable with programming in Lua, please join the
 [support server](https://discord.gg/wQmKyRm5rx) and view the instructions in the `#suggestions` channel.
 
 Before creating a new suggestion, make sure it hasn't already been suggested or pull requested.
@@ -22,7 +22,7 @@ For opening pull requests, the following steps apply:
 	 $ git switch -c my-branch master
 	 ```
 4. Commit your changes
-5. Open a pull request **against the `dev` branch**.
+5. Open a pull request **against the `developer` branch**.
 
 Your commit messages and/or PR titles should be descriptive. Something like "Update README" isn't exactly helpful.
 Please provide a small description of your patch as well, even if it's a rather trivial change.
