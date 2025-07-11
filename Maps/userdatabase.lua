@@ -5,8 +5,7 @@ local function savePlayerData(player)
     local key = "Player_" .. player.UserId -- Unique key for each player
     local data = {
         JoinDate = player:GetAttribute("JoinDate"),
-        PlayTime = player:GetAttribute("PlayTime"),
-        Coins = player:GetAttribute("Coins")
+        PlayTime = player:GetAttribute("PlayTime")
     }
     playerDataStore:SetAsync(key, data)
 end
@@ -34,7 +33,7 @@ game.Players.PlayerAdded:Connect(function(player)
     while player do
         local playTime = player:GetAttribute("PlayTime") or 0
         player:SetAttribute("PlayTime", playTime + 1)
-        task.wait(60) -- Update every minute
+        task.wait(10) -- Update every minute
     end
 end)
 
