@@ -1,3 +1,7 @@
+local app = {
+    APIoc = "${data}"
+}
+
 local presence = {
     state = "Playing Solo",
     details = "Competitive",
