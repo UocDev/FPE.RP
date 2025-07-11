@@ -11,7 +11,7 @@ local Workspace = game:GetService("Workspace")
 local GameConfig = {
     MinPlayers = 2,                  -- Minimum players to start game
     LobbyWaitTime = 30,              -- Time to wait in lobby (seconds)
-    RoundDuration = 300,             -- Round duration (seconds)
+    RoundDuration = 500,             -- Round duration (seconds)
     RespawnTime = 5,                 -- Time before eliminated players spectate
     SafeZoneShrinkTime = 240,        -- When safe zone starts shrinking (seconds)
     SafeZoneShrinkDuration = 60,     -- How long it takes to shrink (seconds)
@@ -20,7 +20,7 @@ local GameConfig = {
     FallDamageThreshold = 50,        -- Height threshold for fall damage
     EnableTeamDamage = false,        -- Whether players can damage teammates
     MapVotingEnabled = true,         -- Whether players can vote for next map
-    MaxRounds = 5,                   -- Maximum rounds before game ends
+    MaxRounds = 1,                   -- Maximum rounds before game ends
     WinReward = 100,                 -- Currency reward for winning
     ParticipationReward = 25         -- Currency reward for participating
 }
